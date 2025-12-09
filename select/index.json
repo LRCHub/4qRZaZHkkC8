@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "KILLING MY LOVE",
+  "base_artist": "LESLIE PARRISH",
+  "createdAt": "2025-12-09T11:34:13.589925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Killing My Love",
+      "artist": "Dave Rodgers",
+      "has_synced": false,
+      "path": "select/01_Killing_My_Love_Dave_Rodgers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Killing my Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/02_Killing_my_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Killing My Love",
+      "artist": "Roy Buchanan",
+      "has_synced": false,
+      "path": "select/03_You're_Killing_My_Love_Roy_Buchanan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "06 - You're Killing My Love",
+      "artist": "Roy Buchanan",
+      "has_synced": false,
+      "path": "select/04_06_-_You're_Killing_My_Love_Roy_Buchanan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Killing My Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/05_Killing_My_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KILLING MY LOVE",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/06_KILLING_MY_LOVE_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Killing My Love (extended mix)",
+      "artist": "Leslie Parrish",
+      "has_synced": false,
+      "path": "select/07_Killing_My_Love_(extended_mix)_Leslie_Parrish.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Killing My Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/08_Killing_My_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Killing My Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/09_Killing_My_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KILLING MY LOVE",
+      "artist": "Angela",
+      "has_synced": false,
+      "path": "select/10_KILLING_MY_LOVE_Angela.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Killing My Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/11_Killing_My_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Leslie Parrish / Killing My Love",
+      "artist": "Initial D",
+      "has_synced": true,
+      "path": "select/12_Leslie_Parrish___Killing_My_Love_Initial_D.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Killing my Love",
+      "artist": "Leslie Parrish",
+      "has_synced": true,
+      "path": "select/13_Killing_my_Love_Leslie_Parrish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KILLING MY LOVE",
+      "artist": "LESLIE PARRISH",
+      "has_synced": false,
+      "path": "select/pl_01_KILLING_MY_LOVE_LESLIE_PARRISH.txt"
+    }
+  ]
+}
